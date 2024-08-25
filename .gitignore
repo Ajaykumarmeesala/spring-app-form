@@ -13,9 +13,6 @@ Thumbs.db
 # Logs
 *.log
 
-# Docker files
-*.dockerignore
-Dockerfile
 
 # Compiled class files
 *.class
